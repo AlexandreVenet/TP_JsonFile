@@ -1,0 +1,14 @@
+{
+  "Toto": {
+    "Nom": "Toto",
+    "Valeur": 0
+  },
+  "Jean": {
+    "Nom": "Jean",
+    "Valeur": 10
+  },
+  "Zouzou": {
+    "Nom": "Sacha",
+    "Valeur": -999
+  }
+}
