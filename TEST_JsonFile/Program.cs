@@ -7,10 +7,12 @@ using TEST_JsonFile.Helpers;
 
 Sortie.ProgrammeDebut();
 
+// Choisir son opération :
+
 //new AvecJsonNode();
 //new AvecJsonDocument();
 //new AvecJsonSerializer();
-new AvecUtf8JsonRW();
+//new AvecUtf8JsonRW();
 
 Sortie.ProgrammeFin();
 
