@@ -92,7 +92,7 @@ namespace TEST_JsonFile.ClassesOperations
 						),
 			};
 
-			// Utf8JsonWriter rendoie un tableau d'octets (byte[]) en UTF8.
+			// Utf8JsonWriter renvoie un tableau d'octets (byte[]) en UTF8.
 			// Pour cette raison, par exemple utiliser MemoryStream qui permet de le convertir en String.
 			// Utf8JsonWriter est rapide et performant mais l'écriture est manuelle (pas d'utilisation de modèle de données).
 
